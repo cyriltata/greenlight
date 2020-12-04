@@ -217,8 +217,9 @@ de_DE:
   bigbluebutton_exception: "Ups, beim Start der Konferenz ist ein Fehler aufgetreten!"
   cancel: Abbrechen
   cookies:
-    cookie_info: Cookies helfen uns bei der Bereitstellung unserer Dienste. Durch die Nutzung der Dienste stimmen Sie der Nutzung von Cookies zu.
+    cookie_info: Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Durch die weitere Nutzung der Website stimmen Sie der Verwendung von Cookies zu. %{href_learn}
     cookie_button: Ich stimme zu
+    learn_more: Mehr erfahren.
   copied: Kopiert
   copy: Kopieren
   date:
@@ -313,11 +314,12 @@ de_DE:
     search:
       start: Suche beginnen...
   landing:
-    about: "%{href} ist eine benutzerfreundliche Oberfläche für das Open-Source-Webkonferenzsystem BigBlueButton. Sie können Ihre eigenen Räume erstellen, um Konferenzen zu veranstalten oder können bestehenden Konferenzen über einen kurzen und bequemen Link beitreten."
-    welcome: Willkommen zu BigBlueButton.
+    about: "Als Institutsmitglied können Sie dieses Konferenzsystem für Forschung und Lehre nutzen. Wie dies funktioniert und was Sie dabei beachten sollten, erfahren Sie %{href_learn} (Anmeldung mit GWDG-Zugangsdaten erforderlich). Fall Sie bei der Nutzung der Plattform Fragen oder Problemen begegnen, wenden Sie sich bitte an die %{href_contact}."
+    welcome: "Willkommen auf der BigBlueButton-Webkonferenz-Plattform des Georg-Elias-Müller-Instituts für Psychologie."
     video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
+    here: "hier"
   language_default: Voreinstellung (Browsersprache)
   ldap_error: "Verbindung zum LDAP Server konnte nicht hergestellt werden. Bitte überprüfen Sie die LDAP Konfiguration und stellen Sie sicher, dass der LDAP-Server läuft."
   login: Einloggen
