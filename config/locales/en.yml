@@ -217,8 +217,9 @@ en:
   bigbluebutton_exception: Oops, there was an error when starting the meeting!
   cancel: Cancel
   cookies:
-    cookie_info: Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+    cookie_info: On our website we're using cookies to optimize user experience and to improve our website. By using our website you agree that cookies can be stored on your local computer. %{href_learn}
     cookie_button: I Agree
+    learn_more: Learn more.
   copied: Copied
   copy: Copy
   date:
@@ -314,11 +315,12 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
+    about: "As a member of the institute, you can use this conference system for research and teaching. You will learn how this works and what you should consider %{href_learn} (Login with GWDG account required). If you encounter any questions or problems while using the platform, please contact the %{href_contact}"
+    welcome: Welcome to the BigBlueButton web conference platform of the Georg-Elias-Müller Institute of Psychology.
     video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
+    here: here
   language_default: Default (browser language)
   ldap_error: Unable to connect to the LDAP server. Please check your LDAP configuration in the env file and ensure your server is running.
   login: Sign in
